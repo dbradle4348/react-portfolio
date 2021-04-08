@@ -10,7 +10,7 @@ function Nav() {
             <a href="#about">About</a>
           </li>
           <li className='px-1'>
-            <span>Portfolio</span>
+            <a href="#portfolio">Portfolio</a>
           </li>
           <li className='px-1'>
             <span>Contact</span>
