@@ -2,20 +2,20 @@ import React from "react";
 
 function Nav() {
   return (
-    <header>
+    <header className="flex-row px-1">
       <h2>Daniel Bradley</h2>
       <nav>
         <ul className="flex-row">
           <li className="mx2">
             <a href="#about">About</a>
           </li>
-          <li>
+          <li className='px-1'>
             <span>Portfolio</span>
           </li>
-          <li>
+          <li className='px-1'>
             <span>Contact</span>
           </li>
-          <li>
+          <li className='px-1'>
             <span>Resume</span>
           </li>
         </ul>
