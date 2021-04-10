@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.9d981b9d.chunk.css",
+    "main.js": "/photo-port/static/js/main.23cf1fb7.chunk.js",
+    "main.js.map": "/photo-port/static/js/main.23cf1fb7.chunk.js.map",
+    "runtime-main.js": "/photo-port/static/js/runtime-main.ff8ffd53.js",
+    "runtime-main.js.map": "/photo-port/static/js/runtime-main.ff8ffd53.js.map",
+    "static/js/2.59eab744.chunk.js": "/photo-port/static/js/2.59eab744.chunk.js",
+    "static/js/2.59eab744.chunk.js.map": "/photo-port/static/js/2.59eab744.chunk.js.map",
+    "static/js/3.978ebdcd.chunk.js": "/photo-port/static/js/3.978ebdcd.chunk.js",
+    "static/js/3.978ebdcd.chunk.js.map": "/photo-port/static/js/3.978ebdcd.chunk.js.map",
+    "index.html": "/photo-port/index.html",
+    "static/css/main.9d981b9d.chunk.css.map": "/photo-port/static/css/main.9d981b9d.chunk.css.map",
+    "static/js/2.59eab744.chunk.js.LICENSE.txt": "/photo-port/static/js/2.59eab744.chunk.js.LICENSE.txt",
+    "static/media/DanielBradleyHeadshot.fba96204.JPG": "/photo-port/static/media/DanielBradleyHeadshot.fba96204.JPG",
+    "static/media/Whiskey_Ice.7869b34f.jpg": "/photo-port/static/media/Whiskey_Ice.7869b34f.jpg",
+    "static/media/cover-image.fe314dd9.png": "/photo-port/static/media/cover-image.fe314dd9.png",
+    "static/media/danielbradley1pageresume.docx.e682c651.pdf": "/photo-port/static/media/danielbradley1pageresume.docx.e682c651.pdf",
+    "static/media/githubImage.1e61d3b3.png": "/photo-port/static/media/githubImage.1e61d3b3.png",
+    "static/media/myTeam.8552bd48.jpg": "/photo-port/static/media/myTeam.8552bd48.jpg",
+    "static/media/weights.0823bad2.jpg": "/photo-port/static/media/weights.0823bad2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8ffd53.js",
+    "static/js/2.59eab744.chunk.js",
+    "static/css/main.9d981b9d.chunk.css",
+    "static/js/main.23cf1fb7.chunk.js"
+  ]
+}
