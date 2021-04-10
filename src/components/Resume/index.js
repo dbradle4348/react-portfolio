@@ -6,7 +6,7 @@ function Resume() {
         <section>
         <h1 id="resume">Resume</h1>
         <p>Download one page resume here: <a href={danielbradley1pageresume} target="_blank" rel="noreferrer" download>Download Resume</a></p>
-        <p>Developer Proficiencies:</p>
+        <h4>Developer Proficiencies:</h4>
         <p>HTML, CSS, Javascript, Node.js, React, Mongodb, SQL, [I'll fill this out better later]</p>
         </section>
     )

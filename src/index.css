@@ -4,8 +4,8 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #f3a847;
+  --primary: #93827F;
+  --secondary: #F3F9D2;
   --tertiary: #b12704;
   --light: #fafafa;
   --dark: #000000;
@@ -90,6 +90,7 @@ a:hover {
 
 header {
   background: var(--dark);
+  position: sticky
 }
 
 header a {
@@ -147,8 +148,28 @@ li {
   list-style: none;
 }
 
+.mobileNav {
+  position: sticky;
+}
+
+nav a {
+  color: white
+}
+/* 
 nav a:hover {
   text-decoration: none;
+} */
+
+nav a:visited {
+  color:white
+}
+
+/* nav a:active {
+  color:rgb(228, 46, 1)
+} */
+
+nav a:focus {
+  color: rgb(228, 46, 1);
 }
 
 nav li {
@@ -239,7 +260,7 @@ textarea {
   cursor: pointer;
 }
 
-.modalBackdrop {
+/* .modalBackdrop {
   background: rgba(0, 0, 0, 0.65);
   bottom: 0;
   left: 0;
@@ -248,7 +269,7 @@ textarea {
   right: 0;
   top: 0;
   z-index: 1;
-}
+} */
 
 .modalContainer {
   background: var(--darker);
